@@ -1,0 +1,19 @@
+h1 { color: blue;
+	text-shadow: 5px 2px 3px grey;
+	}
+	
+.Profile {
+	position: absolute;
+	right: 100px
+}
+
+.Target { 
+	font-size: 50px;
+	font-weight: bold;
+	color: blue;
+	font-variant: small-caps;
+	 }
+.p1{ margin-bottom: 4em; }
+.p5{ margin-bottom: 12em ; }
+
+table { font-size: 25px}
